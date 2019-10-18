@@ -13,9 +13,10 @@ Open [python official website](https://www.python.org/) download the latest pyth
 open the .exe file, check the Add Paths to file checkbox and install python.
 open command pormpt or windows power shell and type
 
-          python
+          ```python```
 to enter the interactive python shell.
 
-Use
-> python --version
+Use      
+          ```python --version```
+To check python version installed on your computer
                     
