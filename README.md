@@ -29,3 +29,8 @@ Type the following command in the terminal
 brew install python
 ```
 
+# Resources to learn python
+* https://www.python.org/
+* https://realpython.com/
+* https://automatetheboringstuff.com/
+* https://t.me/python/
