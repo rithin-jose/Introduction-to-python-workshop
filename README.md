@@ -4,13 +4,18 @@ This repo contains all the resources used during the "Introduction to python" wo
 
 clone the repository as shown [here](https://help.github.com/en/articles/cloning-a-repository)
 
-##Installing Python
+## Installing Python
+
 Open [python official website](https://www.python.org/) download the latest python release.
 
-###For windows :
+### For windows :
+
 open the .exe file, check the Add Paths to file checkbox and install python.
 open command pormpt or windows power shell and type
 
           python
 to enter the interactive python shell.
-use 
+
+Use
+> python --version
+                    
