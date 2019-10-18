@@ -13,12 +13,19 @@ Open [python official website](https://www.python.org/) download the latest pyth
 open the .exe file, check the Add Paths to file checkbox and install python.
 open command pormpt or windows power shell and type
 
-          python
+	  python
 to enter the interactive python shell.
 
 Use ```python --version``` To check python version installed on your computer
 
 ### For Linux Users:
 Type the following command in the terminal
-					`apt-get install python3.6`
-                    
+
+	apt-get install python3.8
+### For mac users
+Type the following command in the terminal
+
+```
+brew install python
+```
+
